@@ -1,6 +1,6 @@
 # RETAIL SALES ANALYTICS
 ## Project Overview
-This project aims to analyze retail sales data to help stakeholders understand how the business is performing, where the revenue is coming from, and what factors are affecting the profitability. The project involves transforming raw retail transaction data into meaningful business insights using Excel for data cleaning, SQL for data extraction and analytical reporting, and Power BI for dashboard development and data visualization. The final deliverable is an executive dashboard that enables stakeholders to monitor key business metrics such as sales, profit, customer performance, product performance, and regional trends. These insights support strategic decision-making and help identify opportunities for growth and operational improvemenNT.
+This project aims to analyze retail sales data to help stakeholders understand how the business is performing, where the revenue is coming from, and what factors are affecting the profitability. The project involves transforming raw retail transaction data into meaningful business insights using Excel for data cleaning, SQL for data extraction and analytical reporting, and Power BI for dashboard development and data visualization. The final deliverable is an executive dashboard that enables stakeholders to monitor key business metrics such as sales, profit, customer performance, product performance, and regional trends. These insights support strategic decision-making and help identify opportunities for growth and operational improvement.
 
 ---
 
