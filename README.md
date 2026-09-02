@@ -61,33 +61,34 @@ Before analysis, the dataset was cleaned and validated:
 ### KPIs
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/ec7e67e50aad6000cd022441723cf4a136c639c9/KPIs..png)
 
-KPI cards showing key business numbers for customers, products, revenue, expenses, and profit.
+- This dashboard highlights key business figures, including customers, products, revenue, expenses, and profit. It provides a quick snapshot of overall business performance in one view.
 ---
 
 ## Sales Analysis
 
 ### Sales by Category  
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/SALES%20BY%20CATEGORY%20DONUT.png)
-This visual shows how sales are distributed across major product categories.
+
+- This donut chart compares sales across Technology, Furniture, and Office Supplies categories. Technology contributes the largest share of sales, while Furniture and Office Supplies make up the remaining portions.
 
 
 ### Sales by Sub-Category
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/SALES%20BY%20SUB%20-%20CATEGORY.png)
-This visual shows how sales are distributed across major product categories.
 
+- This chart shows sales for different sub-categories within Furniture, Office Supplies, and Technology. Consumer products have the highest sales across all three categories, while Home Office products contribute the least.
 ---
 
 ### Sales by Region  
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/SALES%20BY%20REGION%20BAR%20GRAPH.png)
 
-This compares how different regions contribute to total sales.
+This bar chart compares sales across four regions: West, East, South, and Central. The West region has the highest sales, while the Central region has the lowest.
 
 ---
 
 ### Yearly Sales & Profit Trend  
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/YEARLY%20SALES%20%26%20PROFIT.png)
 
-This shows how profitability changes month by month.
+This line chart shows how sales and profit changed over time from 2014 to 2017. Sales fluctuate significantly throughout the period, while profit remains relatively stable at much lower levels.
 
 ---
 
@@ -101,4 +102,6 @@ This shows how profitability changes month by month.
 
 # FINAL RETAIL SALES DASHBOARD
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/1add5944124cf91e8eaafc5a4e0d6900738c916c/RETAIL%20SALES%20DASHBOARD.png)
+
+- This dashboard provides an overview of retail business performance, showing key metrics such as customers, products, revenue, expenses, and profit. It also includes charts that break down sales by category, region, sub-category, and yearly sales and profit trends.
 ---
