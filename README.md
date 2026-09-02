@@ -60,6 +60,8 @@ Before analysis, the dataset was cleaned and validated:
 ## Sales Analysis
 ### KPIs
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/KPIs%20(2).png)
+
+These KPI cards display 793 customers, 37,873 products, revenue of $2,297,200.8603, expenses of 2,010,803.84, and profit of $286,397.0217.
 ---
 
 ## Sales Analysis
