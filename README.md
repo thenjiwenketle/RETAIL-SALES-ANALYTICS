@@ -57,31 +57,28 @@ Before analysis, the dataset was cleaned and validated:
 ---
 
 # RETAIL SALES ANALYTICS (RSA)
+## Sales Analysis
+### KPIs
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/KPIs%20(2).png)
+---
 
 ## Sales Analysis
 
 ### Sales by Category  
-![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/fed73e60151119ae0d165f631c6dd8f45d9300d1/KPIs%20(2).png)
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/Sales%20by%20Category%20(2).png)
 This visual shows how sales are distributed across major product categories.
 
 ---
 
-### Sales & Profit by Order Date Analysis
-![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Sub-category%20by%20sales.png)
-
-This highlights the most profitable dates
-
----
-
 ### Sales by Region  
-![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Sales%20by%20Region.png)
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/Sales%20by%20Region%20(2).png)
 
 This compares how different regions contribute to total sales.
 
 ---
 
-### Monthly Sales & Profit Trend  
-![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Monthly%20Profit%20Trend.png)
+### Yearly Sales & Profit Trend  
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/Sales%20%26%20Profit.png)
 
 This shows how profitability changes month by month.
 
