@@ -81,14 +81,14 @@ Before analysis, the dataset was cleaned and validated:
 ### Sales by Region  
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/SALES%20BY%20REGION%20BAR%20GRAPH.png)
 
-This bar chart compares sales across four regions: West, East, South, and Central. The West region has the highest sales, while the Central region has the lowest.
+- This bar chart compares sales across four regions: West, East, South, and Central. The West region has the highest sales, while the Central region has the lowest.
 
 ---
 
 ### Yearly Sales & Profit Trend  
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/YEARLY%20SALES%20%26%20PROFIT.png)
 
-This line chart shows how sales and profit changed over time from 2014 to 2017. Sales fluctuate significantly throughout the period, while profit remains relatively stable at much lower levels.
+- This line chart shows how sales and profit changed over time from 2014 to 2017. Sales fluctuate significantly throughout the period, while profit remains relatively stable at much lower levels.
 
 ---
 
