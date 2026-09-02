@@ -67,25 +67,25 @@ KPI cards showing key business numbers for customers, products, revenue, expense
 ## Sales Analysis
 
 ### Sales by Category  
-![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/Sales%20by%20Category%20(2).png)
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/SALES%20BY%20CATEGORY%20DONUT.png)
 This visual shows how sales are distributed across major product categories.
 
 
-### Categories by Region
-![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/Sales%20by%20Category%20(2).png)
+### Sales by Sub-Category
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/SALES%20BY%20SUB%20-%20CATEGORY.png)
 This visual shows how sales are distributed across major product categories.
 
 ---
 
 ### Sales by Region  
-![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/Sales%20by%20Region%20(2).png)
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/SALES%20BY%20REGION%20BAR%20GRAPH.png)
 
 This compares how different regions contribute to total sales.
 
 ---
 
 ### Yearly Sales & Profit Trend  
-![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/Sales%20%26%20Profit.png)
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/d46629603035a8d5999bcf31cbc3791deab625ac/YEARLY%20SALES%20%26%20PROFIT.png)
 
 This shows how profitability changes month by month.
 
@@ -99,6 +99,6 @@ This shows how profitability changes month by month.
 - Sales show clear seasonal fluctuations across months  
 - High sales do not always guarantee high profit, highlighting cost differences
 
-# FINAL DASHBOARD
-![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/b070b77a1f2c3b63fc9388fedec66aaea0dd9a49/FINAL%20DASHBOARD.png)
+# FINAL RETAIL SALES DASHBOARD
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/1add5944124cf91e8eaafc5a4e0d6900738c916c/RETAIL%20SALES%20DASHBOARD.png)
 ---
