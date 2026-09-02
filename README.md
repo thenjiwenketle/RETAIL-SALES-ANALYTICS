@@ -92,6 +92,8 @@ This shows how profitability changes month by month.
 - Some regions significantly outperform others in both sales and profit  
 - Certain sub-categories dominate overall revenue contribution  
 - Sales show clear seasonal fluctuations across months  
-- High sales do not always guarantee high profit, highlighting cost differences  
+- High sales do not always guarantee high profit, highlighting cost differences
 
+# FINAL DASHBOARD
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/b070b77a1f2c3b63fc9388fedec66aaea0dd9a49/FINAL%20DASHBOARD.png)
 ---
