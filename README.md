@@ -61,12 +61,17 @@ Before analysis, the dataset was cleaned and validated:
 ### KPIs
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/ec7e67e50aad6000cd022441723cf4a136c639c9/KPIs..png)
 
-These KPI cards display 793 customers, 37,873 products, revenue of $2,297,200.8603, expenses of 2,010,803.84, and profit of $286,397.0217.
+KPI cards showing key business numbers for customers, products, revenue, expenses, and profit.
 ---
 
 ## Sales Analysis
 
 ### Sales by Category  
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/Sales%20by%20Category%20(2).png)
+This visual shows how sales are distributed across major product categories.
+
+
+### Categories by Region
 ![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/8265f9b21f064943c1690c50734906df7e18e877/Sales%20by%20Category%20(2).png)
 This visual shows how sales are distributed across major product categories.
 
