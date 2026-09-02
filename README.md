@@ -61,8 +61,7 @@ Before analysis, the dataset was cleaned and validated:
 ## Sales Analysis
 
 ### Sales by Category  
-![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Profit%20by%20Category.png)
-
+![image alt](https://github.com/thenjiwenketle/RETAIL-SALES-ANALYTICS/blob/fed73e60151119ae0d165f631c6dd8f45d9300d1/KPIs%20(2).png)
 This visual shows how sales are distributed across major product categories.
 
 ---
